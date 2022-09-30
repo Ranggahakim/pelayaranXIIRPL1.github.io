@@ -1,0 +1,20 @@
+.prime-bgcolor
+{
+    background-color: #002B5B;
+}
+
+.fourth-bgcolor
+{
+    background-color: #8FE3CF;
+}
+
+.fifth-bgcolor
+{
+    background-color: #5FE3C4;
+}
+
+a:hover
+{
+    background-color: #438CDF !important;
+    transition-duration: 0.5s;
+}
